@@ -36,4 +36,4 @@ app.get('/', async (request,response) => {
 
 app.listen(process.env.PORT || PORT, () => {
     console.log('Server is up and running ')
-})
+}) 
